@@ -4,7 +4,7 @@
 
 Вы можете очень быстро знакомиться с кодом проекта и начинать экспериментировать с ним. В коде проекта использованы самые современные технологии разработки веб-приложений на Vue.
 
-<img src="https://assets.stickpng.com/images/62a74f85223343fbc2207d05.png" width="200px" />
+<img src="https://www.wisnet.com/wp-content/uploads/2021/07/vue-js-logo-png-transparent-png.png" width="200px" />
 
 ## Project setup
 
